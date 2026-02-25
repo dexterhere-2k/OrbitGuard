@@ -78,7 +78,7 @@ Validator → Retrieve Ground Truth (IPFS)
 
 | Resource | URL |
 |----------|-----|
-| Documentation | `./docs/` |
-| Architecture | [`architecture.md`](./architecture.md) |
-| Scoring Design | [`scoring_and_incentives.md`](./scoring_and_incentives.md) |
-| Overview | [`overview.md`](./overview.md) |
+| Architecture | [`architecture.md`](./docs/architecture.md) |
+| Scoring Design | [`scoring_and_incentives.md`](./docs/scoring_and_incentives.md) |
+| Data and Snapshots | [`data_and_snapshots.md`](./docs/data_and_snapshots.md) |
+| Overview | [`overview.md`](./docs/overview.md) |
